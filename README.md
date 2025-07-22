@@ -70,7 +70,7 @@ Hit run – and watch your imagination come to life 💫
 
 ---
 
-###🌈 Output Example
+### 🌈 Output Example
 📎 (Insert an image output here to showcase your results)
 Let the world see what your prompt conjures!
 
@@ -80,14 +80,14 @@ Let the world see what your prompt conjures!
 
 ---
 
-###🤝 Join the Creative Guild
+### 🤝 Join the Creative Guild
 Have a better spell to cast? ✨
 We welcome your ideas, feedback, and improvements!
 🪄 Feel free to fork, contribute, or drop a Pull Request.
 
 ---
 
-###📬 Let’s build the future of imagination – together.
+### 📬 Let’s build the future of imagination – together.
 
 💡 Contributions
 👾 Bug fixes, ✍️ improved documentation, 🎨 new features – all are welcome!
